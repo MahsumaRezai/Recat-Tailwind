@@ -4,5 +4,19 @@
     height: 900px;
     background-repeat: no-repeat;
     background-attachment: local;
-    background-size: cover
+    background-size: cover;
+    
+    
+}
+.logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    padding-left: 50px;
+    margin-top: -50px;
+    gap:2px
+
+
+    
+
 }
