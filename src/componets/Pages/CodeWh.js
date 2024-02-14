@@ -5,10 +5,10 @@ const CodeWh=(peops)=>{
         <Fragment>
             <div className="flex flex-col justify-center items-center text-pretty  p-12 bg-gray-100 ">
             
-            <h1 className="text-red-700 p-12 text-5xl font-bold text-cneter">
+            <h1 className="text-red-700 p-12 text-5xl font-bold text-cneter ">
             Why is Coding Important?
             </h1>
-            <p className="text-pretty text-xl text-left leading-10">
+            <p className="text-pretty text-xl text-center leading-10">
             Computers don’t understand the languages we humans speak. So, for you as a human to communicate with computers, you need to learn a coding language, or better put, a programming language.
 
 The primary type of code computers understand is binary. Binary consists of only 0s and 1s, with 0 meaning off and 1 meaning on.
