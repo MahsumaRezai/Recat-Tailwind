@@ -15,7 +15,7 @@ In web development, there is frontend development and backend development.
 
 Frontend development involves the creation of user interfaces (UIs) with markup languages such as HTML and CSS, and a programming called JavaScript. Those who create these user interfaces are called frontend developers.
 Backend development, on the other hand, is the creation of web servers that make the user interfaces (UIs) more interactive.
- This is done with languages such as PHP, Ruby, Python, and JavaScript (through Node JS).
+
             </p>
             </div>
             
