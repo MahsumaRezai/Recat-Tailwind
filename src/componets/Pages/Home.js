@@ -12,10 +12,6 @@ const Home=(peops)=>{
             <CodeWh/>
             <CodeUse/>
             <CodeWeb/>
-            
-
-            
-           
             </div>
             
         </Fragment>
