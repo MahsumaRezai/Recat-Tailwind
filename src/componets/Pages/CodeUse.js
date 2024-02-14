@@ -8,7 +8,7 @@ const CodeUse=(peops)=>{
             <h1 className="text-red-700 p-12 text-5xl font-bold text-cneter">
             What is Coding Used For?
             </h1>
-            <p className="text-pretty text-xl text-justify leading-10">
+            <p className="text-pretty text-xl text-center leading-10">
             In our day to day lives, coding is everywhere and is used for almost everything. Since coding is used for virtually everything, computer programmers need to specialize in a particular field.
 
 Some of the main uses of coding are in web development, mobile app development, database administration, and more.

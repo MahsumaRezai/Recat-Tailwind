@@ -5,6 +5,10 @@
     background-repeat: no-repeat;
     background-attachment: local;
     background-size: cover;
+    border-bottom: 10px solid black;
+    border-top: 10px solid black;
+ 
+
     
     
 }

@@ -2,6 +2,7 @@ import { Fragment } from "react";
 import CodeDef from "./CodeDef";
 import CodeWh from "./CodeWh";
 import CodeUse from "./CodeUse";
+import CodeWeb from "./CodeWeb";
 
 const Home=(peops)=>{
     return (
@@ -10,6 +11,8 @@ const Home=(peops)=>{
             <CodeDef/>
             <CodeWh/>
             <CodeUse/>
+            <CodeWeb/>
+            
 
             
            
