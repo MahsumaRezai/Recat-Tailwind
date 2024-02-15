@@ -4,8 +4,7 @@ const CodeDef=(peops)=>{
     return (
         <Fragment>
             <div className="flex flex-col justify-center items-center text-pretty   ">
-            
-            <h1 className="text-red-700 p-12 text-5xl font-bold text-cneter">
+            <h1 className="text-red-700 p-12 text-5xl font-bold text-cneter  ">
             Meaning of Coding
             </h1>
             <p className="text-pretty text-xl text-center leading-10">
