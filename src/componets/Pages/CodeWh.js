@@ -3,7 +3,7 @@ import { Fragment } from "react";
 const CodeWh=(peops)=>{
     return (
         <Fragment>
-            <div className="flex flex-col justify-center items-center text-pretty  p-12 bg-gray-100 ">
+            <div className="flex flex-col justify-center items-center text-pretty  p-12 ">
             
             <h1 className="text-red-700 p-12 text-5xl font-bold text-cneter ">
             Why is Coding Important?

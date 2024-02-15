@@ -7,7 +7,7 @@ import CodeWeb from "./CodeWeb";
 const Home=(peops)=>{
     return (
         <Fragment>
-            <div className="flex flex-col justify-center items-center text-pretty  p-12 bg-gray-100 ">
+            <div className=" home flex flex-col justify-center items-center text-pretty  p-12  ">
             <CodeDef/>
             <CodeWh/>
             <CodeUse/>
