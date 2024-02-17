@@ -13,7 +13,7 @@ const Head = (props) => {
 
       <span class="menu flex [&>li]:pl-8 [&>li>a]:text-center [&>li>a]:relative [&>li>a]:transition [&>li>a]:duration-200 [&>li>a]:ease-in-out [&>li>a]:font-medium [&>li>a]:text-lg">
       <li><Link to='/' className=" text-xl list-none no-underline  hover:text-red-700" >Home</Link></li>
-                <li><Link to='/product' className=" text-xl list-none no-underline hover:text-red-700 ">Lessons</Link></li>
+                <li><Link to='/Lesson' className=" text-xl list-none no-underline hover:text-red-700 ">Lessons</Link></li>
                 <li><Link to='/fashion' className=" text-xl list-none no-underline hover:text-red-700">Quiz</Link></li>
                 <li><Link to='/contact' className=" text-xl list-none no-underline hover:text-red-700">Contact Us</Link></li>
 

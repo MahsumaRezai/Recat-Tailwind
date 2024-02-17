@@ -5,10 +5,10 @@ const CodeWeb=(peops)=>{
         <Fragment>
             <div className="flex flex-col justify-center items-center text-pretty  p-12  ">
             
-            <h1 className="text-red-700 p-12 text-5xl font-bold text-cneter ">
+            <h1 className="text-red-700 p-12 text-2xl md:text-5xl font-bold text-cneter ">
             Web Development
             </h1>
-            <p className="text-pretty text-xl text-center leading-10">
+            <p className="text-pretty text-sm md:text-xl text-center leading-10">
             Web development deals with the creation of websites and web applications. The professionals who create these websites and web applications are called web developers.
 
 In web development, there is frontend development and backend development.
