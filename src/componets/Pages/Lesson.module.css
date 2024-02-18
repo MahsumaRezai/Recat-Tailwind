@@ -14,4 +14,24 @@
     background-repeat: no-repeat;
     background-attachment: local;
     background-size: cover;
+    border-radius: 5px 
+}
+
+.bcakimgtwo {
+    background: url('../img/css.png');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    border-radius: 5px 
+
+}
+.bcakimgthree {
+    background: url('../img/java.png');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    border-radius: 5px 
+
 }
