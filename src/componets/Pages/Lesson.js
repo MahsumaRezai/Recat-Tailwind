@@ -27,8 +27,8 @@ const Lesson = () => {
 
                 </div>
                 <div className="p-4">
-                    <h4 className="text-xl font-semibold tracking-tight text-blue-600 text-right">
-                        علی قوچانی
+                    <h4 className="text-xl font-semibold tracking-tight text-blue-600 text-left">
+                        WHAT IS HTML ?
                       </h4>
                     <p className="mb-2 leading-normal text-right">
                         مدرس PHP
@@ -38,8 +38,6 @@ const Lesson = () => {
             </div>
             <div className=" rounded-lg shadow-md lg:max-w-sm shadow-xl  shadow-gray-100 mb-2 ">
                 <div className={classes.bcakimgtwo}>
-
-
                 </div>
                 <div className="p-4">
                     <h4 className="text-xl font-semibold tracking-tight text-blue-600 text-right">
