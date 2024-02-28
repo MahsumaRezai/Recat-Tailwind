@@ -7,7 +7,7 @@ const Head = (props) => {
             <nav class="bg-slate-300 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600 font-serif">
       <ul class="navigation max-w-[90vw] flex flex-wrap justify-between items-center relative mx-auto py-8">
       <li class="logo" >
-        <h3 class="font-bold  text-4xl hover:text-red-700">CodeCollage</h3>
+        <h3 class="font-bold  text-4xl hover:text-red-700">CodeCollege</h3>
       </li>
       <input type="checkbox" id="check" />
 
