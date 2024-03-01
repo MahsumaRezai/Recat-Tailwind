@@ -6,6 +6,7 @@ import Home from './componets/Pages/Home';
 import Footer from './componets/Footer/Footer';
 import Lesson from './componets/Pages/Lesson';
 
+
 function App() {
   return (
     <Fragment>
@@ -15,6 +16,7 @@ function App() {
       </Route>
       <Route path='/Lesson' element={<Lesson/>} exact>
       </Route>
+      
       </Routes>
       <Footer/>
     </Fragment>

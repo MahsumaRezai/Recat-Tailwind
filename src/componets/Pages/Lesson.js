@@ -3,10 +3,11 @@ import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import classes from './Lesson.module.css';
-
+//import {useState} from 'react'
 
 
 const Lesson = () => {
+    
     const settings = {
         dots: true,
         infinite: true,
@@ -20,6 +21,7 @@ const Lesson = () => {
     };
 
     return (
+       
         <Slider {...settings} className= {classes.card}>
             <div className=" flex flex-row justift-center items-center rounded-lg shadow-md lg:max-w-sm shadow-xl 
              shadow-gray-100 mb-2   ">
@@ -62,15 +64,17 @@ A document is usually a text file structured using a markup language — HTML is
                     <p className="mb-2 leading-normal text-left">
                     The JavaScript programming language is text-based and can be used on both client and server-side. It controls multimedia within web pages and allows them to become interactive. JavaScript empowers a developer to do many things like adding animation to images or updating content automatically on a page. 
 
-JavaScript is what allows you to interact with the vast majority of web pages that you visit. Whether it’s filling out forms, scrolling through maps, or registering for an event, it’s most likely that JavaScript programming is what’s allowing you to do it. 
+                JavaScript is what allows you to interact with the vast majority of web pages that you visit. Whether it’s filling out forms, scrolling through maps, or registering for an event, it’s most likely that JavaScript programming is what’s allowing you to do it. 
                      </p>
+      
+                           </div>
 
-                </div>
-                
             </div>
 
         </Slider>
-    );
+    )
+        
+    
 };
 
 export default Lesson;
